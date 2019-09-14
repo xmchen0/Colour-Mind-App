@@ -1,0 +1,30 @@
+{
+  "name": "colour-mind-app",
+  "version": "1.0.0",
+  "description": "the colourful mind",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xmkchen/Colour-Mind-App.git"
+  },
+  "keywords": [
+    "react",
+    "express",
+    "node",
+    "git"
+  ],
+  "author": "kathy chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xmkchen/Colour-Mind-App/issues"
+  },
+  "homepage": "https://github.com/xmkchen/Colour-Mind-App#readme"
+}
